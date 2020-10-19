@@ -1,3 +1,9 @@
+.jumbotron {
+  height:10px;
+  background-color: wheat;
+}
+
+
 #contact h2{
   text-align: center;
 }
